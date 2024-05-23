@@ -1,1 +1,1 @@
-Matlab analysis code to generate figure 1 for Stracy et al. Transient non-specific DNA binding dominates the target search of bacterial DNA-binding proteins. Molecular Cell 2021
+Matlab analysis code to generate figure 1 for Stracy et al. Transient non-specific DNA binding dominates the target search of bacterial DNA-binding proteins. Molecular Cell 2021. Can be run with the raw data available here: https://data.mendeley.com/datasets/4skb3txv92/1  
